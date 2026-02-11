@@ -1,0 +1,1317 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ns0="https://seqimprove.org/" xmlns:ns1="http://wiki.synbiohub.org/wiki/Terms/synbiohub#" xmlns:ns2="http://cellocad.org/Terms/cello#" xmlns:prov="http://www.w3.org/ns/prov#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sbol="http://sbols.org/v2#">
+  <sbol:ComponentDefinition rdf:about="https://seqimprove.synbiohub.org/plJAI563/1">
+    <dcterms:title>plJAI563</dcterms:title>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://seqimprove.synbiohub.org/plJAI563/pJR7_anno_1/1">
+        <dcterms:title>pJR7</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/pJR7_anno_1" />
+        <sbol:displayId>pJR7_anno_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://seqimprove.synbiohub.org/plJAI563/pJR7_comp_1/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://seqimprove.synbiohub.org/plJAI563/pJR7_anno_1/pJR7_anno_1_loc/1">
+            <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/pJR7_anno_1/pJR7_anno_1_loc" />
+            <sbol:displayId>pJR7_anno_1_loc</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>2743</sbol:start>
+            <sbol:end>2810</sbol:end>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://seqimprove.synbiohub.org/plJAI563/oriT_anno_1/1">
+        <dcterms:title>oriT</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/oriT_anno_1" />
+        <sbol:displayId>oriT_anno_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://seqimprove.synbiohub.org/plJAI563/oriT_comp_1/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://seqimprove.synbiohub.org/plJAI563/oriT_anno_1/oriT_anno_1_loc/1">
+            <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/oriT_anno_1/oriT_anno_1_loc" />
+            <sbol:displayId>oriT_anno_1_loc</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>4330</sbol:start>
+            <sbol:end>4589</sbol:end>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://seqimprove.synbiohub.org/plJAI563/RiboJ_anno_1/1">
+        <dcterms:title>RiboJ</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/RiboJ_anno_1" />
+        <sbol:displayId>RiboJ_anno_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://seqimprove.synbiohub.org/plJAI563/RiboJ_comp_1/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://seqimprove.synbiohub.org/plJAI563/RiboJ_anno_1/RiboJ_anno_1_loc/1">
+            <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/RiboJ_anno_1/RiboJ_anno_1_loc" />
+            <sbol:displayId>RiboJ_anno_1_loc</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>2811</sbol:start>
+            <sbol:end>2885</sbol:end>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://seqimprove.synbiohub.org/plJAI563/DT65_anno_1/1">
+        <dcterms:title>DT65</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/DT65_anno_1" />
+        <sbol:displayId>DT65_anno_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://seqimprove.synbiohub.org/plJAI563/DT65_comp_1/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://seqimprove.synbiohub.org/plJAI563/DT65_anno_1/DT65_anno_1_loc/1">
+            <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/DT65_anno_1/DT65_anno_1_loc" />
+            <sbol:displayId>DT65_anno_1_loc</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>3632</sbol:start>
+            <sbol:end>3716</sbol:end>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://seqimprove.synbiohub.org/plJAI563/kanr_anno_1/1">
+        <dcterms:title>kanr</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/kanr_anno_1" />
+        <sbol:displayId>kanr_anno_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://seqimprove.synbiohub.org/plJAI563/kanr_comp_1/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://seqimprove.synbiohub.org/plJAI563/kanr_anno_1/kanr_anno_1_loc/1">
+            <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/kanr_anno_1/kanr_anno_1_loc" />
+            <sbol:displayId>kanr_anno_1_loc</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#reverseComplement" />
+            <sbol:start>4701</sbol:start>
+            <sbol:end>5516</sbol:end>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://seqimprove.synbiohub.org/plJAI563/B0034_anno_1/1">
+        <dcterms:title>B0034</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/B0034_anno_1" />
+        <sbol:displayId>B0034_anno_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://seqimprove.synbiohub.org/plJAI563/B0034_comp_1/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://seqimprove.synbiohub.org/plJAI563/B0034_anno_1/B0034_anno_1_loc/1">
+            <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/B0034_anno_1/B0034_anno_1_loc" />
+            <sbol:displayId>B0034_anno_1_loc</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>2886</sbol:start>
+            <sbol:end>2911</sbol:end>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://seqimprove.synbiohub.org/plJAI563/attP2_anno_1/1">
+        <dcterms:title>attP2</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/attP2_anno_1" />
+        <sbol:displayId>attP2_anno_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://seqimprove.synbiohub.org/plJAI563/attP2_comp_1/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://seqimprove.synbiohub.org/plJAI563/attP2_anno_1/attP2_anno_1_loc/1">
+            <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/attP2_anno_1/attP2_anno_1_loc" />
+            <sbol:displayId>attP2_anno_1_loc</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>3721</sbol:start>
+            <sbol:end>3783</sbol:end>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://seqimprove.synbiohub.org/plJAI563/M13_anno_1/1">
+        <dcterms:title>M13</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/M13_anno_1" />
+        <sbol:displayId>M13_anno_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://seqimprove.synbiohub.org/plJAI563/M13_comp_1/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://seqimprove.synbiohub.org/plJAI563/M13_anno_1/M13_anno_1_loc/1">
+            <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/M13_anno_1/M13_anno_1_loc" />
+            <sbol:displayId>M13_anno_1_loc</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>1094</sbol:start>
+            <sbol:end>1118</sbol:end>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://seqimprove.synbiohub.org/plJAI563/Rj111_JR11_anno_1/1">
+        <dcterms:title>Rj111_JR11</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/Rj111_JR11_anno_1" />
+        <sbol:displayId>Rj111_JR11_anno_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://seqimprove.synbiohub.org/plJAI563/Rj111_JR11_comp_1/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://seqimprove.synbiohub.org/plJAI563/Rj111_JR11_anno_1/Rj111_JR11_anno_1_loc/1">
+            <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/Rj111_JR11_anno_1/Rj111_JR11_anno_1_loc" />
+            <sbol:displayId>Rj111_JR11_anno_1_loc</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>1213</sbol:start>
+            <sbol:end>1755</sbol:end>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://seqimprove.synbiohub.org/plJAI563/RiboRpa_RpaR_AM2_TerRpa_anno_1/1">
+        <dcterms:title>RiboRpa_RpaR_AM2_TerRpa</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/RiboRpa_RpaR_AM2_TerRpa_anno_1" />
+        <sbol:displayId>RiboRpa_RpaR_AM2_TerRpa_anno_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://seqimprove.synbiohub.org/plJAI563/RiboRpa_RpaR_AM2_TerRpa_comp_1/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://seqimprove.synbiohub.org/plJAI563/RiboRpa_RpaR_AM2_TerRpa_anno_1/RiboRpa_RpaR_AM2_TerRpa_anno_1_loc/1">
+            <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/RiboRpa_RpaR_AM2_TerRpa_anno_1/RiboRpa_RpaR_AM2_TerRpa_anno_1_loc" />
+            <sbol:displayId>RiboRpa_RpaR_AM2_TerRpa_anno_1_loc</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#reverseComplement" />
+            <sbol:start>172</sbol:start>
+            <sbol:end>1118</sbol:end>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://seqimprove.synbiohub.org/plJAI563/PCymRC_anno_1/1">
+        <dcterms:title>PCymRC</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/PCymRC_anno_1" />
+        <sbol:displayId>PCymRC_anno_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://seqimprove.synbiohub.org/plJAI563/PCymRC_comp_1/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://seqimprove.synbiohub.org/plJAI563/PCymRC_anno_1/PCymRC_anno_1_loc/1">
+            <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/PCymRC_anno_1/PCymRC_anno_1_loc" />
+            <sbol:displayId>PCymRC_anno_1_loc</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>1119</sbol:start>
+            <sbol:end>1208</sbol:end>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://seqimprove.synbiohub.org/plJAI563/yfp_anno_1/1">
+        <dcterms:title>yfp</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/yfp_anno_1" />
+        <sbol:displayId>yfp_anno_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://seqimprove.synbiohub.org/plJAI563/yfp_comp_1/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://seqimprove.synbiohub.org/plJAI563/yfp_anno_1/yfp_anno_1_loc/1">
+            <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/yfp_anno_1/yfp_anno_1_loc" />
+            <sbol:displayId>yfp_anno_1_loc</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>2912</sbol:start>
+            <sbol:end>3631</sbol:end>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://seqimprove.synbiohub.org/plJAI563/pJR11_anno_1/1">
+        <dcterms:title>pJR11</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/pJR11_anno_1" />
+        <sbol:displayId>pJR11_anno_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://seqimprove.synbiohub.org/plJAI563/pJR11_comp_1/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://seqimprove.synbiohub.org/plJAI563/pJR11_anno_1/pJR11_anno_1_loc/1">
+            <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/pJR11_anno_1/pJR11_anno_1_loc" />
+            <sbol:displayId>pJR11_anno_1_loc</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>1760</sbol:start>
+            <sbol:end>1836</sbol:end>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://seqimprove.synbiohub.org/plJAI563/Rj72_JR7_anno_1/1">
+        <dcterms:title>Rj72_JR7</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/Rj72_JR7_anno_1" />
+        <sbol:displayId>Rj72_JR7_anno_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://seqimprove.synbiohub.org/plJAI563/Rj72_JR7_comp_1/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://seqimprove.synbiohub.org/plJAI563/Rj72_JR7_anno_1/Rj72_JR7_anno_1_loc/1">
+            <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/Rj72_JR7_anno_1/Rj72_JR7_anno_1_loc" />
+            <sbol:displayId>Rj72_JR7_anno_1_loc</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>1841</sbol:start>
+            <sbol:end>2738</sbol:end>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://seqimprove.synbiohub.org/plJAI563/R6K_anno_1/1">
+        <dcterms:title>R6K</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/R6K_anno_1" />
+        <sbol:displayId>R6K_anno_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://seqimprove.synbiohub.org/plJAI563/R6K_comp_1/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://seqimprove.synbiohub.org/plJAI563/R6K_anno_1/R6K_anno_1_loc/1">
+            <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/R6K_anno_1/R6K_anno_1_loc" />
+            <sbol:displayId>R6K_anno_1_loc</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>3875</sbol:start>
+            <sbol:end>4324</sbol:end>
+          </sbol:Range>
+        </sbol:location>
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563" />
+    <sbol:displayId>plJAI563</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:component>
+      <sbol:Component rdf:about="https://seqimprove.synbiohub.org/plJAI563/pJR7_comp_1/1">
+        <dcterms:title>pJR7</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/pJR7_comp_1" />
+        <sbol:displayId>pJR7_comp_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/pJR7/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://seqimprove.synbiohub.org/plJAI563/oriT_comp_1/1">
+        <dcterms:title>oriT</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/oriT_comp_1" />
+        <sbol:displayId>oriT_comp_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/oriT/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://seqimprove.synbiohub.org/plJAI563/Rj72_JR7_comp_1/1">
+        <dcterms:title>Rj72_JR7</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/Rj72_JR7_comp_1" />
+        <sbol:displayId>Rj72_JR7_comp_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://seqimprove.synbiohub.org/plJAI563/yfp_comp_1/1">
+        <dcterms:title>yfp</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/yfp_comp_1" />
+        <sbol:displayId>yfp_comp_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/yfp/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://seqimprove.synbiohub.org/plJAI563/RiboJ_comp_1/1">
+        <dcterms:title>RiboJ</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/RiboJ_comp_1" />
+        <sbol:displayId>RiboJ_comp_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/RiboJ/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://seqimprove.synbiohub.org/plJAI563/Rj111_JR11_comp_1/1">
+        <dcterms:title>Rj111_JR11</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/Rj111_JR11_comp_1" />
+        <sbol:displayId>Rj111_JR11_comp_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://seqimprove.synbiohub.org/plJAI563/DT65_comp_1/1">
+        <dcterms:title>DT65</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/DT65_comp_1" />
+        <sbol:displayId>DT65_comp_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/DT65/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://seqimprove.synbiohub.org/plJAI563/kanr_comp_1/1">
+        <dcterms:title>kanr</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/kanr_comp_1" />
+        <sbol:displayId>kanr_comp_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/kanr/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://seqimprove.synbiohub.org/plJAI563/B0034_comp_1/1">
+        <dcterms:title>B0034</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/B0034_comp_1" />
+        <sbol:displayId>B0034_comp_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/B0034/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://seqimprove.synbiohub.org/plJAI563/RiboRpa_RpaR_AM2_TerRpa_comp_1/1">
+        <dcterms:title>RiboRpa_RpaR_AM2_TerRpa</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/RiboRpa_RpaR_AM2_TerRpa_comp_1" />
+        <sbol:displayId>RiboRpa_RpaR_AM2_TerRpa_comp_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/RiboRpa_RpaR_AM2_TerRpa/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://seqimprove.synbiohub.org/plJAI563/attP2_comp_1/1">
+        <dcterms:title>attP2</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/attP2_comp_1" />
+        <sbol:displayId>attP2_comp_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/attP2/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://seqimprove.synbiohub.org/plJAI563/PCymRC_comp_1/1">
+        <dcterms:title>PCymRC</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/PCymRC_comp_1" />
+        <sbol:displayId>PCymRC_comp_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/PCymRC/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://seqimprove.synbiohub.org/plJAI563/M13_comp_1/1">
+        <dcterms:title>M13</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/M13_comp_1" />
+        <sbol:displayId>M13_comp_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/M13/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://seqimprove.synbiohub.org/plJAI563/pJR11_comp_1/1">
+        <dcterms:title>pJR11</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/pJR11_comp_1" />
+        <sbol:displayId>pJR11_comp_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/pJR11/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://seqimprove.synbiohub.org/plJAI563/R6K_comp_1/1">
+        <dcterms:title>R6K</dcterms:title>
+        <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563/R6K_comp_1" />
+        <sbol:displayId>R6K_comp_1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/R6K/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:type rdf:resource="http://identifiers.org/so/SO:0000988" />
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <ns0:targetOrganism rdf:resource="https://www.uniprot.org/taxonomy/562" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000637" />
+    <dcterms:description>Subcircuit 3 attB2 integrated plasmid plJAI_563 from "Partitioning of a 2-bit hash function across 66 communicating cells"</dcterms:description>
+    <ns0:richDescription>Subcircuit 3 attB2 integrated plasmid plJAI_563 from "Partitioning of a 2-bit hash function across 66 communicating cells"</ns0:richDescription>
+    <sbol:sequence rdf:resource="https://seqimprove.synbiohub.org/plJAI563_Sequence/1" />
+    <ns0:reference rdf:resource="https://doi.org/10.1038/s41589-024-01730-1" />
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/pJR7/1">
+    <dcterms:title>pJR7</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/pJR7" />
+    <sbol:displayId>pJR7</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000167" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/pJR7_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/pJR7/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/oriT/1">
+    <dcterms:title>oriT</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/oriT" />
+    <sbol:displayId>oriT</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000724" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/oriT_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/oriT/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/1">
+    <dcterms:title>Rj72_JR7</dcterms:title>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/annotation2/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/annotation2" />
+        <sbol:displayId>annotation2</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/JR7/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/annotation2/range/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/annotation2/range" />
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>105</sbol:start>
+            <sbol:end>812</sbol:end>
+            <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+            <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/1" />
+          </sbol:Range>
+        </sbol:location>
+        <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+        <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/1" />
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/annotation0/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/annotation0" />
+        <sbol:displayId>annotation0</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/PlmJ/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/annotation0/range/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/annotation0/range" />
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>1</sbol:start>
+            <sbol:end>81</sbol:end>
+            <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+            <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/1" />
+          </sbol:Range>
+        </sbol:location>
+        <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+        <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/1" />
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/annotation3/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/annotation3" />
+        <sbol:displayId>annotation3</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/DT36/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/annotation3/range/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/annotation3/range" />
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>813</sbol:start>
+            <sbol:end>898</sbol:end>
+            <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+            <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/1" />
+          </sbol:Range>
+        </sbol:location>
+        <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+        <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/1" />
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/annotation1/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/annotation1" />
+        <sbol:displayId>annotation1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/Rj72/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/annotation1/range/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/annotation1/range" />
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>82</sbol:start>
+            <sbol:end>104</sbol:end>
+            <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+            <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/1" />
+          </sbol:Range>
+        </sbol:location>
+        <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+        <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/1" />
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7" />
+    <sbol:displayId>Rj72_JR7</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/JR7/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/JR7" />
+        <sbol:displayId>JR7</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/JR7/1" />
+        <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+        <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/Rj72/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/Rj72" />
+        <sbol:displayId>Rj72</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72/1" />
+        <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+        <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/PlmJ/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/PlmJ" />
+        <sbol:displayId>PlmJ</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/PlmJ/1" />
+        <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+        <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/DT36/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/DT36" />
+        <sbol:displayId>DT36</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/DT36/1" />
+        <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+        <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000804" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+    <ns2:ymax>3.75792433</ns2:ymax>
+    <ns2:ymin>0.026776673</ns2:ymin>
+    <ns2:response_function>ymin + (ymax - ymin) / (1.0 + (x / K)^n)</ns2:response_function>
+    <ns2:n>2.058969157</ns2:n>
+    <ns2:color_hexcode>9635CF</ns2:color_hexcode>
+    <ns2:group_name>JR7</ns2:group_name>
+    <ns2:gate_type>NOR</ns2:gate_type>
+    <ns2:family>TetR</ns2:family>
+    <ns2:K>0.078436787</ns2:K>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/yfp/1">
+    <dcterms:title>yfp</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/yfp" />
+    <sbol:displayId>yfp</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000316" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/yfp_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/yfp/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/RiboJ/1">
+    <dcterms:title>RiboJ</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/RiboJ" />
+    <sbol:displayId>RiboJ</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0001977" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/RiboJ_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/RiboJ/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/1">
+    <dcterms:title>Rj111_JR11</dcterms:title>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/annotation3/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/annotation3" />
+        <sbol:displayId>annotation3</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/DT19/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/annotation3/range/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/annotation3/range" />
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>397</sbol:start>
+            <sbol:end>543</sbol:end>
+            <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+            <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/1" />
+          </sbol:Range>
+        </sbol:location>
+        <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+        <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/1" />
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/annotation1/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/annotation1" />
+        <sbol:displayId>annotation1</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/Rj111/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/annotation1/range/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/annotation1/range" />
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>79</sbol:start>
+            <sbol:end>102</sbol:end>
+            <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+            <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/1" />
+          </sbol:Range>
+        </sbol:location>
+        <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+        <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/1" />
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/annotation0/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/annotation0" />
+        <sbol:displayId>annotation0</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/SarJ/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/annotation0/range/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/annotation0/range" />
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>1</sbol:start>
+            <sbol:end>78</sbol:end>
+            <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+            <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/1" />
+          </sbol:Range>
+        </sbol:location>
+        <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+        <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/1" />
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:sequenceAnnotation>
+      <sbol:SequenceAnnotation rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/annotation2/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/annotation2" />
+        <sbol:displayId>annotation2</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:component rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/JR11/1" />
+        <sbol:location>
+          <sbol:Range rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/annotation2/range/1">
+            <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/annotation2/range" />
+            <sbol:displayId>range</sbol:displayId>
+            <sbol:version>1</sbol:version>
+            <sbol:orientation rdf:resource="http://sbols.org/v2#inline" />
+            <sbol:start>103</sbol:start>
+            <sbol:end>396</sbol:end>
+            <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+            <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/1" />
+          </sbol:Range>
+        </sbol:location>
+        <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+        <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/1" />
+      </sbol:SequenceAnnotation>
+    </sbol:sequenceAnnotation>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11" />
+    <sbol:displayId>Rj111_JR11</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/JR11/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/JR11" />
+        <sbol:displayId>JR11</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/JR11/1" />
+        <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+        <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/SarJ/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/SarJ" />
+        <sbol:displayId>SarJ</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/SarJ/1" />
+        <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+        <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/DT19/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/DT19" />
+        <sbol:displayId>DT19</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/DT19/1" />
+        <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+        <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:component>
+      <sbol:Component rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/Rj111/1">
+        <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/Rj111" />
+        <sbol:displayId>Rj111</sbol:displayId>
+        <sbol:version>1</sbol:version>
+        <sbol:access rdf:resource="http://sbols.org/v2#public" />
+        <sbol:definition rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111/1" />
+        <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+        <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/1" />
+      </sbol:Component>
+    </sbol:component>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000804" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+    <ns2:ymax>2.636669224</ns2:ymax>
+    <ns2:ymin>0.018283171</ns2:ymin>
+    <ns2:response_function>ymin + (ymax - ymin) / (1.0 + (x / K)^n)</ns2:response_function>
+    <ns2:n>2.04086841</ns2:n>
+    <ns2:color_hexcode>D3799B</ns2:color_hexcode>
+    <ns2:group_name>JR11</ns2:group_name>
+    <ns2:gate_type>NOR</ns2:gate_type>
+    <ns2:family>TetR</ns2:family>
+    <ns2:K>0.103894911</ns2:K>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/DT65/1">
+    <dcterms:title>DT65</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/DT65" />
+    <sbol:displayId>DT65</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000141" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/DT65_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/DT65/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/kanr/1">
+    <dcterms:title>kanr</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/kanr" />
+    <sbol:displayId>kanr</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000316" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/kanr_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/kanr/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/B0034/1">
+    <dcterms:title>B0034</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/B0034" />
+    <sbol:displayId>B0034</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000139" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/B0034_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/B0034/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/RiboRpa_RpaR_AM2_TerRpa/1">
+    <dcterms:title>RiboRpa_RpaR_AM2_TerRpa</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/RiboRpa_RpaR_AM2_TerRpa" />
+    <sbol:displayId>RiboRpa_RpaR_AM2_TerRpa</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0005853" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/RiboRpa_RpaR_AM2_TerRpa_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/RiboRpa_RpaR_AM2_TerRpa/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/attP2/1">
+    <dcterms:title>attP2</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/attP2" />
+    <sbol:displayId>attP2</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000299" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/attP2_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/attP2/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+    <dcterms:modified>2026-02-03T21:44:18</dcterms:modified>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/PCymRC/1">
+    <dcterms:title>PCymRC</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/PCymRC" />
+    <sbol:displayId>PCymRC</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000167" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/PCymRC_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/PCymRC/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/M13/1">
+    <dcterms:title>M13</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/M13" />
+    <sbol:displayId>M13</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000141" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/M13_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/M13/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/pJR11/1">
+    <dcterms:title>pJR11</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/pJR11" />
+    <sbol:displayId>pJR11</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000167" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/pJR11_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/pJR11/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/R6K/1">
+    <dcterms:title>R6K</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/R6K" />
+    <sbol:displayId>R6K</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000296" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/R6K_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/R6K/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/JR7/1">
+    <dcterms:title>JR7</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/JR7" />
+    <sbol:displayId>JR7</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000316" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/JR7_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/JR7/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj72/1">
+    <dcterms:title>Rj72</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72" />
+    <sbol:displayId>Rj72</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000139" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/PlmJ/1">
+    <dcterms:title>PlmJ</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/PlmJ" />
+    <sbol:displayId>PlmJ</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0001977" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/PlmJ_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/PlmJ/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/DT36/1">
+    <dcterms:title>DT36</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/DT36" />
+    <sbol:displayId>DT36</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000141" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/DT36_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/DT36/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/JR11/1">
+    <dcterms:title>JR11</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/JR11" />
+    <sbol:displayId>JR11</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000316" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/JR11_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/JR11/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/SarJ/1">
+    <dcterms:title>SarJ</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/SarJ" />
+    <sbol:displayId>SarJ</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0001977" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/SarJ_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/SarJ/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/DT19/1">
+    <dcterms:title>DT19</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/DT19" />
+    <sbol:displayId>DT19</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000141" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/DT19_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/DT19/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:ComponentDefinition rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj111/1">
+    <dcterms:title>Rj111</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111" />
+    <sbol:displayId>Rj111</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <sbol:role rdf:resource="http://identifiers.org/so/SO:0000139" />
+    <sbol:sequence rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_sequence/1" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:ComponentDefinition>
+  <sbol:Sequence rdf:about="https://seqimprove.synbiohub.org/plJAI563_Sequence/1">
+    <sbol:persistentIdentity rdf:resource="https://seqimprove.synbiohub.org/plJAI563_Sequence" />
+    <sbol:displayId>plJAI563</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>taggcatggtctaagaaaccattattatcatgacattaacctataaaaatagaagttcctattccgaagttcctattctctagaaagtataggaacttcggatccgaattcgagctccgtcgacactagtgcggccgcactcgagggcatcagagcagattgtactggtacaggaaaaattaaaggggagataaaatcccccctttttggttaactctattacagacgaatcagacccagtgtcagtgcttttgcaactgctgcggtacgatttgctgcatccagtttacgtgctgcttcaatcagatgaaatttaacggtgcgttcggtaatacacagaataacgctaatttcccatgcggttttaccctgtgctgcccactgcagaatttcacattcacgcggtgtcagacgattacgacgaatcggtttcggacggctcagtacacgcagacggctatgtgcataaatgctaaccagctgcattacaccacgggctgccggactcagatcaggatcttcacctgccatactaattgctgcgctaccatcatcgtaatgcagcggaatacaataaccttcaaccagaccaaattctgctgcacgggtcataacacgatgtgctgcctgatcacggtcacgatcatacggtgcatcactccaaacaaacggatgaacagtggttgcaccataacgcggaaccggatcaactgcgctaaagttttcgctaacatacagatcaaaccaatcacgaggccaaccatttgccagggtcagttccggcagaccggcattacggctcggcagacctgccatgatataggcggtaaaaccacagcttgcaatcaggctttcaaaacggctaatcagtgccggtgcttccagacgttcaacgctatcaacaaattccagtgtacgacgaccccacagctgatcttcacccacaatcattactgttaccctaagtatcgcttttaaacaaaattatttgtagaggataccgtttcggacttttgtactcttcaggtgagacacacatcccactacagcatctagtagctagcactgtacctaggactgagctagccgtcaaggctccttttggagcctttttttttaacaaacagacaatctggtctgtttgtattatggaaaatttttctgtataatagattcaacaaacagacaatctggtctgtttgtattataccggactgtcgccggatgtgtatccgacctgacgatggcccaaaagggccgaaacagtcctctacaaataattttgtttaatgccacttacattagcgtttttgaatgcagacattcgaaaaactgaaagcgattaggaaagcagaaggcttaacacaggcgaaattcagcgaaattagcgggatagctctaggaacagtcaaaaattacgaaagtgggcataaagaccctggtctgagcatcgttatgcgagtcacaaatacgcctttatttaaaaaatatacgctctggttaatgactggtgatacgtcaccacaagctggtcagatcgcgccggctctcgcacacattgggcaaaaaccaacagaatcagaccactccgaaaaacagactggttaattcagccaaaaaacttaagaccgccggtcttgtccactaccttgcagtaatgcggtggacaggatcggcggttttcttttctcttctcaactcggtaccaaagacgaacaataagacgctgaaaagcgtcttttttcgttttggtccgtcatcctataaggacacgcatttgacagtaacctattggtgacttatattcccgtcaaaaggttgtgtattggtgacctttacaagtcataagtctgggctaagcccactgatgagtcgctgaaatgcgacgaaacttatgacctctacaaataattttgtttaagcactacggcattaagcgctcaaatggttcagaatgaaaaagtgcgcaaagaattcgcccagcggctagcgcaagcctgtaaagaagctggtcttgatgaacatggtaggggaatggctatagcccgtgccctttctctttcgtccaaaggcgttagcaaatggtttaatgctgagtctttaccgcgtcaggaaaaaatgaatgcgcttgcgaaatttctaaacgttgatgttgtttggcttcagcacggcacttcgttaaatggagcgaatgatgaagatactctttcatttgttggcaaattaaaaaaagggttagtgcgcgtggttggtgaggcaattcttggtgttgatggtgccatcgagatgaccgaagaacgcgatgggtggctcaaaatttatagcgatgatccagatgcctttggtctgcgtgtgaaaggagacagcatgtggcccagaataaaatcaggagaatatgtactcattgagcctaacaccaaagtattcccgggtgatgaggtgtttgtcagaaccgttgaaggacacaacatgattaaggttcttggctatgacagagatggagaataccaatttacaagcattaaccaggatcacaggcctataacgttgccttatcatcaagtagcaaaggtggagtatgtagctggtattctgaagcaatctcgccatctggatgacatcgaggcaagggagtggctgaaaagttcgtgagatctaactaaaaaggccgctctgcggccttttttcttttcactgtaacaacggaaaccggccattgcgccggttttttttggcctagatattgtcagaaatggcacttgcaaaaactttcagttcaaccataatacgtactgaaagtacgaaaaaggagctgtcaccggatgtgctttccggtctgatgagtccgtgaggacgaaacagcctctacaaataattttgtttaatactagagaaagaggagaaatactagatggtgagcaagggcgaggagctgttcaccggggtggtgcccatcctggtcgagctggacggcgacgtaaacggccacaagttcagcgtgtccggcgagggcgagggcgatgccacctacggcaagctgaccctgaagttcatctgcaccacaggcaagctgcccgtgccctggcccaccctcgtgaccaccttcggctacggcctgcaatgcttcgcccgctaccccgaccacatgaagctgcacgacttcttcaagtccgccatgcccgaaggctacgtccaggagcgcaccatcttcttcaaggacgacggcaactacaagacccgcgccgaggtgaagttcgagggcgacaccctggtgaaccgcatcgagctgaagggcatcgacttcaaggaggacggcaacatcctggggcacaagctggagtacaactacaacagccacaacgtctatatcatggccgacaagcagaagaacggcatcaaggtgaacttcaagatccgccacaacatcgaggacggcagcgtgcagctcgccgaccactaccagcagaacaccccaatcggcgacggccccgtgctgctgcccgacaaccactaccttagctaccagtccgccctgagcaaagaccccaacgagaagcgcgatcacatggtcctgctggagttcgtgaccgccgccgggatcactctcggcatggacgagctgtacaagtaatgctcgtaccaggcccctgcaatttcaacaggggcctttttttatccaattccatcgggtccgaattttcggaccttttctccgctcgagctcatgtatgtgtctacgcgagattctcgcccgagaacttctgcaaggcactgctcttggctaggcggtaatacggttatccacagaatcaggggataacgcaggaaagaacatgtgagcaaaaggccagcaaaaggccaggaaccgtaaaaatgattcgcacgggcccatggctaattcccatgtcagccgttaagtgttcctgtgtcactcaaaattgctttgagaggctctaagggcttctcagtgcgttacatccctggcttgttgtccacaaccgttaaaccttaaaagctttaaaagccttatatattcttttttttcttataaaacttaaaaccttagaggctatttaagttgctgatttatattaattttattgttcaaacatgagagcttagtacgtgaaacatgagagcttagtacgttagccatgagagcttagtacgttagccatgagggtttagttcgttaaacatgagagcttagtacgttaaacatgagagcttagtacgtgaaacatgagagcttagtacgtactatcaacaggttgaactgctgatcttcagatcctctacgccggacgcatcgtggccggatcttcttgtagcttatcggccagcctcgcagagcaggattcccgttgagcaccgccaggtgcgaataagggacagtgaagaaggaacacccgctcgcgggtgggcctacttcacctatcctgcccggctgacgccgttggatacaccaaggaaagtctacacgaaccctttggcaaaatcctgtatatcgtgcgaaaaaggatggatataccgaaaaaatcgctataatgaccccgaagcagggttatgcagcggaaagtataccttaagcttggattctcaccaataaaaaacgcccggcggcaaccgagcgttctgaacaaatccagatggagttctgaggtcattactggatctatcaacaggagtccaagcgagctttagaaaaactcatcgagcatcaaatgaaactgcaatttattcatatcaggattatcaataccatatttttgaaaaagccgtttctgtaatgaaggagaaaactcaccgaggcagttccataggatggcaagatcctggtatcggtctgcgattccgactcgtccaacatcaatacaacctattaatttcccctcgtcaaaaataaggttatcaagtgagaaatcaccatgagtgacgactgaatccggtgagaatggcaaaagtttatgcatttctttccagacttgttcaacaggccagccattacgctcgtcatcaaaatcactcgcatcaaccaaaccgttattcattcgtgattgcgcctgagcgagacgaaatacgcggtcgctgttaaaaggacaattacaaacaggaatcgaatgcaaccggcgcaggaacactgccagcgcatcaacaatattttcacctgaatcaggatattcttctaatacctggaatgctgttttcccggggatcgcagtggtgagtaaccatgcatcatcaggagtacggataaaatgcttgatggtcggaagaggcataaattccgtcagccagtttagtctgaccatctcatctgtaacatcattggcaacgctacctttgccatgtttcagaaacaactctggcgcatcgggcttcccatacaatcgatagattgtcgcacctgattgcccgacattatcgcgagcccatttatacccatataaatcagcatccatgttggaatttaatcgcggcctagagcaagacgtttcccgttgaatatggctcatactcttcctttttcaatattattgaagcatttatcagggttattgtctcatgagcggatacatatttgaatgtatttagaaaaataaacaaa</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/pJR7_sequence/1">
+    <dcterms:title>pJR7_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/pJR7_sequence" />
+    <sbol:displayId>pJR7_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>ATTGTCAGAAATGGCacttgcaaaaactttcagttcaaccataatacgtactgaaagtacgaaaaagg</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/pJR7_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/oriT_sequence/1">
+    <dcterms:title>oriT_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/oriT_sequence" />
+    <sbol:displayId>oriT_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>AGCTTATCGGCCAGCCTCGCAGAGCAGGATTCCCGTTGAGCACCGCCAGGTGCGAATAAGGGACAGTGAAGAAGGAACACCCGCTCGCGGGTGGGCCTACTTCACCTATCCTGCCCGGCTGACGCCGTTGGATACACCAAGGAAAGTCTACACGAACCCTTTGGCAAAATCCTGTATATCGTGCGAAAAAGGATGGATATACCGAAAAAATCGCTATAATGACCCCGAAGCAGGGTTATGCAGCGGAAAGTATACCTTAA</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/oriT_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7_sequence/1">
+    <dcterms:title>Rj72_JR7_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7_sequence" />
+    <sbol:displayId>Rj72_JR7_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>agtcataagtctgggctaagcccactgatgagtcgctgaaatgcgacgaaacttatgacctctacaaataattttgtttaaGCACTACGGCATTAAGCGCTCAAatggttcagaatgaaaaagtgcgcaaagaattcgcccagcggctagcgcaagcctgtaaagaagctggtcttgatgaacatggtaggggaatggctatagcccgtgccctttctctttcgtccaaaggcgttagcaaatggtttaatgctgagtctttaccgcgtcaggaaaaaatgaatgcgcttgcgaaatttctaaacgttgatgttgtttggcttcagcacggcacttcgttaaatggagcgaatgatgaagatactctttcatttgttggcaaattaaaaaaagggttagtgcgcgtggttggtgaggcaattcttggtgttgatggtgccatcgagatgaccgaagaacgcgatgggtggctcaaaatttatagcgatgatccagatgcctttggtctgcgtgtgaaaggagacagcatgtggcccagaataaaatcaggagaatatgtactcattgagcctaacaccaaagtattcccgggtgatgaggtgtttgtcagaaccgttgaaggacacaacatgattaaggttcttggctatgacagagatggagaataccaatttacaagcattaaccaggatcacaggcctataacgttgccttatcatcaagtagcaaaggtggagtatgtagctggtattctgaagcaatctcgccatctggatgacatcgaggcaagggagtggctgaaaagttcgtgaGATCTAACTAAAAAGGCCGCTCTGCGGCCTTTTTTCTTTTCACTGTAACAACGGAAACCGGCCATTGCGCCGGTTTTTTTTGGCCT</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_JR7_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/yfp_sequence/1">
+    <dcterms:title>yfp_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/yfp_sequence" />
+    <sbol:displayId>yfp_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>ATGGTGAGCAAGGGCGAGGAGCTGTTCACCGGGGTGGTGCCCATCCTGGTCGAGCTGGACGGCGACGTAAACGGCCACAAGTTCAGCGTGTCCGGCGAGGGCGAGGGCGATGCCACCTACGGCAAGCTGACCCTGAAGTTCATCTGCACCACAGGCAAGCTGCCCGTGCCCTGGCCCACCCTCGTGACCACCTTCGGCTACGGCCTGCAATGCTTCGCCCGCTACCCCGACCACATGAAGCTGCACGACTTCTTCAAGTCCGCCATGCCCGAAGGCTACGTCCAGGAGCGCACCATCTTCTTCAAGGACGACGGCAACTACAAGACCCGCGCCGAGGTGAAGTTCGAGGGCGACACCCTGGTGAACCGCATCGAGCTGAAGGGCATCGACTTCAAGGAGGACGGCAACATCCTGGGGCACAAGCTGGAGTACAACTACAACAGCCACAACGTCTATATCATGGCCGACAAGCAGAAGAACGGCATCAAGGTGAACTTCAAGATCCGCCACAACATCGAGGACGGCAGCGTGCAGCTCGCCGACCACTACCAGCAGAACACCCCAATCGGCGACGGCCCCGTGCTGCTGCCCGACAACCACTACCTTAGCTACCAGTCCGCCCTGAGCAAAGACCCCAACGAGAAGCGCGATCACATGGTCCTGCTGGAGTTCGTGACCGCCGCCGGGATCACTCTCGGCATGGACGAGCTGTACAAGTAA</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/yfp_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/RiboJ_sequence/1">
+    <dcterms:title>RiboJ_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/RiboJ_sequence" />
+    <sbol:displayId>RiboJ_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>AGCTGTCACCGGATGTGCTTTCCGGTCTGATGAGTCCGTGAGGACGAAACAGCCTCTACAAATAATTTTGTTTAA</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/RiboJ_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11_sequence/1">
+    <dcterms:title>Rj111_JR11_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11_sequence" />
+    <sbol:displayId>Rj111_JR11_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>gactgtcgccggatgtgtatccgacctgacgatggcccaaaagggccgaaacagtcctctacaaataattttgtttaaTGCCACTTACATTAGCGTTTTTGAatgcagacattcgaaaaactgaaagcgattaggaaagcagaaggcttaacacaggcgaaattcagcgaaattagcgggatagctctaggaacagtcaaaaattacgaaagtgggcataaagaccctggtctgagcatcgttatgcgagtcacaaatacgcctttatttaaaaaatatacgctctggttaatgactggtgatacgtcaccacaagctggtcagatcgcgccggctctcgcacacattgggcaaaaaccaacagaatcagaccactccgaaaaacagactggttaaTTCAGCCAAAAAACTTAAGACCGCCGGTCTTGTCCACTACCTTGCAGTAATGCGGTGGACAGGATCGGCGGTTTTCTTTTCTCTTCTCAACTCGGTACCAAAGACGAACAATAAGACGCTGAAAAGCGTCTTTTTTCGTTTTGGTCC</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_JR11_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/DT65_sequence/1">
+    <dcterms:title>DT65_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/DT65_sequence" />
+    <sbol:displayId>DT65_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>TGCTCGTACCAGGCCCCTGCAATTTCAACAGGGGCCTTTTTTTATCCAATTCCATCGGGTCCGAATTTTCGGACCTTTTCTCCGC</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/DT65_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/kanr_sequence/1">
+    <dcterms:title>kanr_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/kanr_sequence" />
+    <sbol:displayId>kanr_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>ATGAGCCATATTCAACGGGAAACGTCTTGCTCTAGGCCGCGATTAAATTCCAACATGGATGCTGATTTATATGGGTATAAATGGGCTCGCGATAATGTCGGGCAATCAGGTGCGACAATCTATCGATTGTATGGGAAGCCCGATGCGCCAGAGTTGTTTCTGAAACATGGCAAAGGTAGCGTTGCCAATGATGTTACAGATGAGATGGTCAGACTAAACTGGCTGACGGAATTTATGCCTCTTCCGACCATCAAGCATTTTATCCGTACTCCTGATGATGCATGGTTACTCACCACTGCGATCCCCGGGAAAACAGCATTCCAGGTATTAGAAGAATATCCTGATTCAGGTGAAAATATTGTTGATGCGCTGGCAGTGTTCCTGCGCCGGTTGCATTCGATTCCTGTTTGTAATTGTCCTTTTAACAGCGACCGCGTATTTCGTCTCGCTCAGGCGCAATCACGAATGAATAACGGTTTGGTTGATGCGAGTGATTTTGATGACGAGCGTAATGGCTGGCCTGTTGAACAAGTCTGGAAAGAAATGCATAAACTTTTGCCATTCTCACCGGATTCAGTCGTCACTCATGGTGATTTCTCACTTGATAACCTTATTTTTGACGAGGGGAAATTAATAGGTTGTATTGATGTTGGACGAGTCGGAATCGCAGACCGATACCAGGATCTTGCCATCCTATGGAACTGCCTCGGTGAGTTTTCTCCTTCATTACAGAAACGGCTTTTTCAAAAATATGGTATTGATAATCCTGATATGAATAAATTGCAGTTTCATTTGATGCTCGATGAGTTTTTCTAA</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/kanr_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/B0034_sequence/1">
+    <dcterms:title>B0034_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/B0034_sequence" />
+    <sbol:displayId>B0034_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>TACTAGAGAAAGAGGAGAAATACTAG</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/B0034_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/RiboRpa_RpaR_AM2_TerRpa_sequence/1">
+    <dcterms:title>RiboRpa_RpaR_AM2_TerRpa_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/RiboRpa_RpaR_AM2_TerRpa_sequence" />
+    <sbol:displayId>RiboRpa_RpaR_AM2_TerRpa_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>AAAAAAAAAGGCTCCAAAAGGAGCCttgacggctagctcagtcctaggtacagtgctagctactAGATGCTGTAGTGGGATGTGTGTCTCACCTGAAGAGTACAAAAGTCCGAAACGGTATCCTCTACAAATAATTTTGTTTAAaAGCGATACTTAGGGTAACAGtAATGattgtgggtgaagatcagctgtggggtcgtcgtacactggaatttgttgatagcgttgaacgtctggaagcaccggcactgattagccgttttgaaagcctgattgcaagctgtggttttaccgcctatatcatggcaggtctgccgagccgtaatgccggtctgccggaactgaccctggcaaatggttggcctcgtgattggtttgatctgtatgttagcgaaaactttagcgcagttgatccggttccgcgttatggtgcaaccactgttcatccgtttgtttggagtgatgcaccgtatgatcgtgaccgtgatcaggcagcacatcgtgttatgacccgtgcagcagaatttggtctggttgaaggttattgtattccgctgcattacgatgatggtagcgcagcaattagtatggcaggtgaagatcctgatctgagtccggcagcccgtggtgtaatgcagctggttagcatttatgcacatagccgtctgcgtgtactgagccgtccgaaaccgattcgtcgtaatcgtctgacaccgcgtgaatgtgaaattctgcagtgggcagcacagggtaaaaccgcatgggaaattagcgttattctgtgtattaccgaacgcaccgttaaatttcatctgattgaagcagcacgtaaactggatgcagcaaatcgtaccgcagcagttgcaaaagcactgacactgggtctgattcgtctgtaatagagttaaccaaAAAGGGGGGATTTTATCTCCCCTTTaatttttcct</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/RiboRpa_RpaR_AM2_TerRpa_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/attP2_sequence/1">
+    <dcterms:title>attP2_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/attP2_sequence" />
+    <sbol:displayId>attP2_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>GCTCATGTATGTGTCTACGCGAGATTCTCGCCCGAGAACTTCTGCAAGGCACTGCTCTTGGCT</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/attP2_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/PCymRC_sequence/1">
+    <dcterms:title>PCymRC_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/PCymRC_sequence" />
+    <sbol:displayId>PCymRC_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>aacaaacagacaatctggtctgtttgtattatggaaaatttttctgtataatagattcaacaaacagacaatctggtctgtttgtattat</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/PCymRC_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/M13_sequence/1">
+    <dcterms:title>M13_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/M13_sequence" />
+    <sbol:displayId>M13_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>GGCTCCTTTTGGAGCCTTTTTTTTT</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/M13_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/pJR11_sequence/1">
+    <dcterms:title>pJR11_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/pJR11_sequence" />
+    <sbol:displayId>pJR11_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>TCCTATAAGGACACGcatttgacagtaacctattggtgacttatattcccgtcaaaaggttgtgtattggtgacctt</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/pJR11_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/R6K_sequence/1">
+    <dcterms:title>R6K_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/R6K_sequence" />
+    <sbol:displayId>R6K_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>TGATTCGCACGGGCCCATGGCTAATTCCCATGTCAGCCGTTAAGTGTTCCTGTGTCACTCAAAATTGCTTTGAGAGGCTCTAAGGGCTTCTCAGTGCGTTACATCCCTGGCTTGTTGTCCACAACCGTTAAACCTTAAAAGCTTTAAAAGCCTTATATATTCTTTTTTTTCTTATAAAACTTAAAACCTTAGAGGCTATTTAAGTTGCTGATTTATATTAATTTTATTGTTCAAACATGAGAGCTTAGTACGTGAAACATGAGAGCTTAGTACGTTAGCCATGAGAGCTTAGTACGTTAGCCATGAGGGTTTAGTTCGTTAAACATGAGAGCTTAGTACGTTAAACATGAGAGCTTAGTACGTGAAACATGAGAGCTTAGTACGTACTATCAACAGGTTGAACTGCTGATCTTCAGATCCTCTACGCCGGACGCATCGTGGCCGGATCTT</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/R6K_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/JR7_sequence/1">
+    <dcterms:title>JR7_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/JR7_sequence" />
+    <sbol:displayId>JR7_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>atggttcagaatgaaaaagtgcgcaaagaattcgcccagcggctagcgcaagcctgtaaagaagctggtcttgatgaacatggtaggggaatggctatagcccgtgccctttctctttcgtccaaaggcgttagcaaatggtttaatgctgagtctttaccgcgtcaggaaaaaatgaatgcgcttgcgaaatttctaaacgttgatgttgtttggcttcagcacggcacttcgttaaatggagcgaatgatgaagatactctttcatttgttggcaaattaaaaaaagggttagtgcgcgtggttggtgaggcaattcttggtgttgatggtgccatcgagatgaccgaagaacgcgatgggtggctcaaaatttatagcgatgatccagatgcctttggtctgcgtgtgaaaggagacagcatgtggcccagaataaaatcaggagaatatgtactcattgagcctaacaccaaagtattcccgggtgatgaggtgtttgtcagaaccgttgaaggacacaacatgattaaggttcttggctatgacagagatggagaataccaatttacaagcattaaccaggatcacaggcctataacgttgccttatcatcaagtagcaaaggtggagtatgtagctggtattctgaagcaatctcgccatctggatgacatcgaggcaagggagtggctgaaaagttcgtga</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/JR7_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj72_sequence/1">
+    <dcterms:title>Rj72_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_sequence" />
+    <sbol:displayId>Rj72_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>GCACTACGGCATTAAGCGCTCAA</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj72_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/PlmJ_sequence/1">
+    <dcterms:title>PlmJ_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/PlmJ_sequence" />
+    <sbol:displayId>PlmJ_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>agtcataagtctgggctaagcccactgatgagtcgctgaaatgcgacgaaacttatgacctctacaaataattttgtttaa</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/PlmJ_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/DT36_sequence/1">
+    <dcterms:title>DT36_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/DT36_sequence" />
+    <sbol:displayId>DT36_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>GATCTAACTAAAAAGGCCGCTCTGCGGCCTTTTTTCTTTTCACTGTAACAACGGAAACCGGCCATTGCGCCGGTTTTTTTTGGCCT</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/DT36_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/JR11_sequence/1">
+    <dcterms:title>JR11_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/JR11_sequence" />
+    <sbol:displayId>JR11_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>atgcagacattcgaaaaactgaaagcgattaggaaagcagaaggcttaacacaggcgaaattcagcgaaattagcgggatagctctaggaacagtcaaaaattacgaaagtgggcataaagaccctggtctgagcatcgttatgcgagtcacaaatacgcctttatttaaaaaatatacgctctggttaatgactggtgatacgtcaccacaagctggtcagatcgcgccggctctcgcacacattgggcaaaaaccaacagaatcagaccactccgaaaaacagactggttaa</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/JR11_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/SarJ_sequence/1">
+    <dcterms:title>SarJ_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/SarJ_sequence" />
+    <sbol:displayId>SarJ_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>gactgtcgccggatgtgtatccgacctgacgatggcccaaaagggccgaaacagtcctctacaaataattttgtttaa</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/SarJ_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/DT19_sequence/1">
+    <dcterms:title>DT19_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/DT19_sequence" />
+    <sbol:displayId>DT19_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>TTCAGCCAAAAAACTTAAGACCGCCGGTCTTGTCCACTACCTTGCAGTAATGCGGTGGACAGGATCGGCGGTTTTCTTTTCTCTTCTCAACTCGGTACCAAAGACGAACAATAAGACGCTGAAAAGCGTCTTTTTTCGTTTTGGTCC</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/DT19_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+  <sbol:Sequence rdf:about="https://synbiohub.org/public/Eco2C1G5T1/Rj111_sequence/1">
+    <dcterms:title>Rj111_sequence</dcterms:title>
+    <sbol:persistentIdentity rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_sequence" />
+    <sbol:displayId>Rj111_sequence</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements>TGCCACTTACATTAGCGTTTTTGA</sbol:elements>
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+    <ns1:ownedBy rdf:resource="https://synbiohub.org/user/myers" />
+    <ns1:topLevel rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/Rj111_sequence/1" />
+    <prov:wasGeneratedBy rdf:resource="https://synbiohub.org/public/Eco2C1G5T1/CelloUCF2sbol_Activity/1" />
+    <dcterms:created>2026-02-03T02:34:18.165Z</dcterms:created>
+  </sbol:Sequence>
+</rdf:RDF>
