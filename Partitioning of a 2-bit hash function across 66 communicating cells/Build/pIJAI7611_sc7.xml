@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:ns0="https://seqimprove.org/" xmlns:prov="http://www.w3.org/ns/prov#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sbol="http://sbols.org/v2#">
+  <sbol:ComponentDefinition rdf:about="https://example.com/pIJAI7611/1">
+    <sbol:persistentIdentity rdf:resource="https://example.com/pIJAI7611" />
+    <dcterms:description>Subcircuit sc7 from the Partitioning of a 2-bit hash function across 66 communicating cells</dcterms:description>
+    <sbol:type rdf:resource="http://www.biopax.org/release/biopax-level3.owl#DnaRegion" />
+    <dcterms:title>pIJAI7611</dcterms:title>
+    <sbol:displayId>pIJAI7611</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:sequence rdf:resource="https://example.com/pIJAI7611_seq/1" />
+    <ns0:richDescription>Subcircuit sc7 from the Partitioning of a 2-bit hash function across 66 communicating cells</ns0:richDescription>
+    <ns0:targetOrganism rdf:resource="https://www.uniprot.org/taxonomy/562" />
+    <ns0:reference rdf:resource="https://doi.org/10.1038/s41589-024-01730-1" />
+    <prov:wasDerivedFrom>https://doi.org/10.1038/s41589-024-01730-1</prov:wasDerivedFrom>
+  </sbol:ComponentDefinition>
+  <sbol:Sequence rdf:about="https://example.com/pIJAI7611_seq/1">
+    <sbol:persistentIdentity rdf:resource="https://example.com/pIJAI7611_seq" />
+    <dcterms:title>pIJAI7611_seq</dcterms:title>
+    <sbol:displayId>pIJAI7611_seq</sbol:displayId>
+    <sbol:version>1</sbol:version>
+    <sbol:elements />
+    <sbol:encoding rdf:resource="http://www.chem.qmul.ac.uk/iubmb/misc/naseq.html" />
+  </sbol:Sequence>
+</rdf:RDF>
